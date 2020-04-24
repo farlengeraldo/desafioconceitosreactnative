@@ -29,5 +29,9 @@
     "jest": "^25.2.7",
     "metro-react-native-babel-preset": "^0.59.0",
     "react-test-renderer": "16.11.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/farlengeraldo/conceitosreactnative.git",
+  "author": "farlengeraldo <farlen.geraldo@gmail.com>",
+  "license": "MIT"
 }
